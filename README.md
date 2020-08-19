@@ -1,3 +1,1 @@
-# numpy
-
 Numpy commands practice .
