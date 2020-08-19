@@ -1,2 +1,3 @@
 # numpy
-it consists of numpy commands 
+
+Numpy commands practice .
